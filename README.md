@@ -28,7 +28,7 @@
 
 ## Usage
 
-*Show all patch Tuesdays for the current year:*
+**Show all patch Tuesdays for the current year:**
 
 ```sh
 get-patch-tuesday
@@ -47,39 +47,15 @@ September 9 2025
 October 14 2025
 November 11 2025
 December 9 2025
-January 14 2025
-February 11 2025
-March 11 2025
-April 8 2025
-May 13 2025
-June 10 2025
-July 8 2025
-August 12 2025
-September 9 2025
-October 14 2025
-November 11 2025
-December 9 2025
 ```
 
-*Show all patch Tuesdays for a given year:*
+**Show all patch Tuesdays for a given year:**
 
 ```sh
 get-patch-tuesday 2026
 ```
 
 ```
-January 13 2026
-February 10 2026
-March 10 2026
-April 14 2026
-May 12 2026
-June 9 2026
-July 14 2026
-August 11 2026
-September 8 2026
-October 13 2026
-November 10 2026
-December 8 2026
 January 13 2026
 February 10 2026
 March 10 2026
